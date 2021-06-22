@@ -7,4 +7,4 @@ smtp test입니다.
 아래의 바로가기를 누르시면, 등록된 게시글로 이동합니다!
 
 
-<a href="https://blog.naver.com/tkdguq9369/222218456296" target="_blank">네이버 게시글 바로가기</a>
+[네이버 게시글 바로가기](https://blog.naver.com/tkdguq9369/222218456296){:target="_blank"}
